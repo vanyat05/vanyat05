@@ -5,4 +5,11 @@
 ### Начинающий программист! Люблю активный образ жизни. 
 
 ### Languages and tools.
-![C#](https://img.shields.io/badge/-C#-03536A?style=for-the-badge&logo=C#&logoColor=9f73d9)
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+<div align="center">  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+</div>
