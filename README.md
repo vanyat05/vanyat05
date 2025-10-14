@@ -1,8 +1,8 @@
 ![Header](https://github.com/vanyat05/vanyat05/blob/main/assets/%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0.jpg)
 
 
-## Hi there 👋
-
+## Привет👋, я Иван!
+# Начинающий программист! Люблю активный образ жизни. 
 <!--
 **vanyat05/vanyat05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
