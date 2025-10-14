@@ -5,4 +5,4 @@
 ### Начинающий программист! Люблю активный образ жизни. 
 
 ### Languages and tools.
-![C#](https://shields.fly.dev/badge/-C#-03536a?style=for-the-badge&logo=C#&logoColor=9f73d9)
+![C#](https://shields.fly.dev/badge/-C#-03536A?style=for-the-badge&logo=C#&logoColor=9f73d9)
